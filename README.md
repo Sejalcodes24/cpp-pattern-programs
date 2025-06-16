@@ -12,7 +12,11 @@ This repository contains various pattern printing programs written in C++ using 
 ## 📌 Purpose
 These codes were written for practice and shared as part of my learning journey. All programs were implemented using while and for loops in C++.
 
+## 💻 Preview
+Each file is structured with proper input prompts and clear logic. Perfect for beginners or practice
+
 ## 🛠 How to Use
 Simply clone the repo or download the .cpp files and run them using any C++ compiler.
 
 ---
+⭐ Star this repo if you found it useful!
